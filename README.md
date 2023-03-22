@@ -35,3 +35,6 @@
             Note: This will work only with the file(s) where the above command is executed. 
             If a new chromedriver is downloaded then the command has to be executed 
             again on the newly downloaded file
+
+### User Agents Lists <br>
+        >https://deviceatlas.com/blog/list-of-user-agent-strings
