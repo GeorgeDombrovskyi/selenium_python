@@ -38,3 +38,10 @@
 
 ### User Agents Lists <br>
         >https://deviceatlas.com/blog/list-of-user-agent-strings
+        
+### Fake User Agent Lib for Python
+        >pip install fake-useragent
+    
+website
+
+            >https://pypi.org/project/fake-useragent/
