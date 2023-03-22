@@ -1,8 +1,7 @@
 # Some helpful information.
 
 ### Link to download the Selenium (in terminal) <br>
-
-    we need install this in  folder with our code files
+we need install this in  folder with our code files
 
     >pip install selenium
 
