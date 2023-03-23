@@ -1,11 +1,12 @@
 from selenium import webdriver
 import time  # For pause
 from selenium.webdriver.common.by import By
+
 from auth_data import *
 # from auth_data import text_one
 
+
 from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
 
