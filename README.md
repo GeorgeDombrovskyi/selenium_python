@@ -3,7 +3,7 @@
 ### Link to download the Selenium (in terminal) <br>
 we need install this in  folder with our code files
 
-    >pip install selenium
+        pip install selenium
 
 ----------
 ### LINK to Download a selenium Driver for CHROME Browsers<br>
@@ -16,7 +16,7 @@ we need install this in  folder with our code files
 "Error: “chromedriver” cannot be opened because the developer cannot be verified." <br>
 (I tried this on MacOS - was be ok.)
 
-        > Open terminal
+        Open terminal
             1.Navigate to path where your chromedriver file is located
             2.Execute any one of the below commands
             3.Command1: xattr -d com.apple.quarantine <name-of-executable>
@@ -36,11 +36,11 @@ we need install this in  folder with our code files
             again on the newly downloaded file
 
 ### User Agents Lists <br>
-        >https://deviceatlas.com/blog/list-of-user-agent-strings
+        https://deviceatlas.com/blog/list-of-user-agent-strings
         
 ### Fake User Agent Lib for Python
-        >pip install fake-useragent
+        pip install fake-useragent
     
 website
 
-            >https://pypi.org/project/fake-useragent/
+        https://pypi.org/project/fake-useragent/
