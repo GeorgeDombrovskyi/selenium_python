@@ -19,9 +19,9 @@ options = webdriver.ChromeOptions()
 browser = webdriver.Chrome(options=options)
 
 try:
-    browser.get(link)
-    # time.sleep(1)  # Give a 5 seconds pause
+    browser.get(link)  # Open browser with link address
 
+    # Wait
     element = WebDriverWait(browser, 10).until(EC.presence_of_element_located((By.XPATH, "/html/body/div[1]/div[3]"
                                                                                          "/form/div[1]/div[1]/div[1]/"
                                                                                          "div/div[2]/input")))
